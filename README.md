@@ -34,3 +34,9 @@ const skills = [
   "n8n", 
   "Web Development", 
   "Arduino"
+
+📫 Contact Me
+
+📧 Email: abdelkhalekmammeri@gmail.com
+
+🌐 Portfolio: Coming Soon
