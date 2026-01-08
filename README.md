@@ -1,42 +1,39 @@
-<h1 align="center">I'm  Abdelkhalek Mammeri</h1>
-<h3 align="center"> 3rd Year Electronics Engineering Student | Front-End Developer | 20 y/o</h3>
+<h1 align="center">Hey, I'm Abdelkhalek</h1>
+<h3 align="center">Front-End Dev • Future Full-Stack • Electronics & Automation</h3>
 
 ---
 
 <p align="center">
-I'm a 20-year-old electronics engineering student with a passion for front-end development, automation, and building real-world projects using JavaScript, React, Arduino, and n8n. I love turning ideas into code and constantly learning new technologies to improve my skills.
+I build things that mix code with hardware.
+Mostly front-end for now, moving full-stack, and always working on electronics, automation, and real projects.
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
+### What I work with
 
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/n8n-ef6c00?style=flat&logo=n8n&logoColor=white" alt="n8n"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" alt="Arduino"/>
-</p>
+- Front-end (JavaScript, React)
+- Learning full-stack step by step
+- Arduino & embedded stuff
+- Automation (n8n, logic-based workflows)
+- ZimaBoard experiments & home-lab style projects
+- Electronics, electricity, sensors, control systems
 
 ---
 
-### 🧠 What I’m Learning Now
+### Tools & tech I use
 
-```javascript
-const skills = [
-  "JavaScript", 
-  "React", 
-  "Git", 
-  "n8n", 
-  "Web Development", 
-  "Arduino"
+JavaScript • React • HTML • CSS • Git  
+Arduino • n8n • Linux  
+Web + hardware + automation
 
-📫 Contact Me
+---
 
-📧 Email: abdelkhalekmammeri@gmail.com
+### Right now
 
-🌐 Portfolio: [https://abdelkhalek.netlify.app/](https://abdelkhalek.netlify.app/)
+Building projects, breaking things, fixing them, and learning how systems actually work.
+
+---
+
+Trying to connect **web, automation, and electronics** into one skillset.
+
