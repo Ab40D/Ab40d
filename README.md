@@ -39,4 +39,4 @@ const skills = [
 
 📧 Email: abdelkhalekmammeri@gmail.com
 
-🌐 Portfolio: https://abdelkhalek.netlify.app/
+🌐 Portfolio: [https://abdelkhalek.netlify.app/](https://abdelkhalek.netlify.app/)
