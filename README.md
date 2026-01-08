@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Pixel Abdelkhalek Mammeri</h1>
-<h3 align="center">💻 3rd Year Electronics Engineering Student | 🎯 Front-End Developer | 👨‍💻 20 y/o</h3>
+<h1 align="center">I'm  Abdelkhalek Mammeri</h1>
+<h3 align="center"> 3rd Year Electronics Engineering Student | Front-End Developer | 20 y/o</h3>
 
 ---
 
@@ -39,4 +39,4 @@ const skills = [
 
 📧 Email: abdelkhalekmammeri@gmail.com
 
-🌐 Portfolio: Coming Soon
+🌐 Portfolio: https://abdelkhalek.netlify.app/
