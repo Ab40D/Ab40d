@@ -67,19 +67,10 @@
 ## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ab40D&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Abdelkhalek's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ab40D&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ab40D&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ab40D&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ab40D&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ab40D&label=Profile%20views&color=00D9FF&style=flat" alt="profile views" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=Ab40D&theme=tokyonight&hide_border=true" />
 </p>
