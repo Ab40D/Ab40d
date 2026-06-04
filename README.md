@@ -6,12 +6,7 @@
 
 
  About Me
-
-Full-Stack IoT Developer and Electronics Engineer in the making, focused on Smart Building, Embedded Systems, and Home Automation.
-
-I build with ESP32, Arduino, MQTT, KNX, Node-RED, React, and Docker.
-
-Open to collaboration and opportunities abroad.
+Electronics Engineering student focused on IoT, Smart Buildings, and automation. Passionate about building practical solutions that connect hardware and software through modern technologies, continuous learning, and real-world problem solving.
 
 
 
