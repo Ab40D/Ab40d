@@ -5,7 +5,7 @@
 <br/>
 
 
- About Me
+
 Electronics Engineering student focused on IoT, Smart Buildings, and automation. Passionate about building practical solutions that connect hardware and software through modern technologies, continuous learning, and real-world problem solving.
 
 
