@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" fill="none">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080A0D"/><stop offset="1" stop-color="#15191F"/></linearGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#697681"/><stop offset=".5" stop-color="#E9F1F5"/><stop offset="1" stop-color="#697681"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#26313A" stroke-width="1" opacity=".42"/></pattern>
+</defs>
+<rect width="1200" height="520" rx="22" fill="url(#bg)"/>
+<rect width="1200" height="520" rx="22" fill="url(#grid)"/>
+<g opacity=".6" stroke="#53616C" stroke-width="1"><path d="M48 90H1152M48 430H1152"/><path d="M48 90V430M1152 90V430"/></g>
+<g font-family="Arial,Helvetica,sans-serif" fill="#EAF0F3">
+  <text x="78" y="68" font-size="13" letter-spacing="4" fill="#93A0AA">ABDELKHALEK MAMMERI / SYSTEMS INTEGRATION</text>
+  <text x="78" y="474" font-size="11" letter-spacing="3" fill="#82909A">PHYSICAL SYSTEMS</text>
+  <text x="1122" y="474" text-anchor="end" font-size="11" letter-spacing="3" fill="#82909A">INTELLIGENT ENVIRONMENTS</text>
+</g>
+<!-- Building shell -->
+<g stroke="#DCE5EA" stroke-width="2" stroke-linejoin="round" opacity=".9">
+ <path d="M115 350V206L280 112L445 206V350Z" fill="#111820"/>
+ <path d="M115 206H445M280 112V350" opacity=".55"/>
+ <path d="M145 222H250V286H145ZM310 222H415V286H310Z" stroke="#778793" fill="#1A252E"/>
+ <path d="M145 304H250V350H145ZM310 304H415V350H310Z" stroke="#778793" fill="#1A252E"/>
+ <path d="M260 350V274H300V350" fill="#202D37"/>
+ <path d="M280 112L280 78" stroke="#71818D" stroke-dasharray="4 6"/>
+</g>
+<!-- device nodes -->
+<g fill="#E9F1F5" stroke="#E9F1F5">
+ <circle cx="197" cy="254" r="4"/><circle cx="362" cy="254" r="4"/><circle cx="197" cy="327" r="4"/><circle cx="362" cy="327" r="4"/>
+</g>
+<!-- integration core -->
+<g filter="url(#glow)">
+ <rect x="520" y="188" width="176" height="144" rx="12" fill="#121A21" stroke="#E6EEF2" stroke-width="1.5"/>
+ <path d="M546 226H670M546 248H670M546 270H670" stroke="#657681" stroke-width="1"/>
+ <circle cx="558" cy="226" r="4" fill="#F5FAFC"/><circle cx="558" cy="248" r="4" fill="#F5FAFC"/><circle cx="558" cy="270" r="4" fill="#F5FAFC"/>
+</g>
+<g font-family="Arial,Helvetica,sans-serif" text-anchor="middle">
+ <text x="608" y="215" fill="#F3F7F9" font-size="12" letter-spacing="2">INTEGRATION CORE</text>
+ <text x="612" y="304" fill="#AAB8C1" font-size="10" letter-spacing="1.5">LOCAL • MODULAR • CONNECTED</text>
+</g>
+<!-- endpoints -->
+<g stroke="#9AAAB4" stroke-width="1.5" fill="#111820">
+ <rect x="820" y="112" width="126" height="54" rx="8"/><rect x="820" y="232" width="126" height="54" rx="8"/><rect x="820" y="352" width="126" height="54" rx="8"/>
+ <rect x="1000" y="112" width="126" height="54" rx="8"/><rect x="1000" y="232" width="126" height="54" rx="8"/><rect x="1000" y="352" width="126" height="54" rx="8"/>
+</g>
+<g fill="#EAF0F3" font-family="Arial,Helvetica,sans-serif" font-size="12" text-anchor="middle">
+ <text x="883" y="145">KNX / BACnet</text><text x="883" y="265">PLC / SCADA</text><text x="883" y="385">ESP32 / EDGE</text>
+ <text x="1063" y="145">MQTT</text><text x="1063" y="265">NODE-RED</text><text x="1063" y="385">INTERFACES</text>
+</g>
+<!-- static signal paths -->
+<g stroke="#53636E" stroke-width="1.5" fill="none">
+ <path d="M445 232H520M445 300H520"/>
+ <path d="M696 210H760V139H820M696 244H780V259H820M696 280H760V379H820"/>
+ <path d="M946 139H1000M946 259H1000M946 379H1000"/>
+</g>
+<!-- animated signal pulses -->
+<g fill="#F5FBFF" filter="url(#glow)">
+ <circle r="4"><animateMotion dur="3.2s" repeatCount="indefinite" path="M445 232H520H696H760V139H820H1000H1126"/></circle>
+ <circle r="3.5"><animateMotion dur="4s" begin=".6s" repeatCount="indefinite" path="M445 300H520H696H780V259H820H1000H1126"/></circle>
+ <circle r="3"><animateMotion dur="3.6s" begin="1.2s" repeatCount="indefinite" path="M445 300H520H696H760V379H820H1000H1126"/></circle>
+</g>
+<g font-family="Arial,Helvetica,sans-serif" fill="#AAB8C1" font-size="10" letter-spacing="2">
+ <text x="520" y="165">ORCHESTRATION</text><text x="820" y="88">FIELD &amp; SOFTWARE LAYERS</text>
+</g>
+<circle cx="1140" cy="68" r="4" fill="#DDE8EE"><animate attributeName="opacity" values=".25;1;.25" dur="2s" repeatCount="indefinite"/></circle>
+</svg>
