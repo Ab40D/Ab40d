@@ -18,6 +18,6 @@
 <a href="https://www.wago.com/"><img src="https://img.shields.io/badge/WAGO-7B2CBF?style=for-the-badge" alt="WAGO"></a>
 </p>
 
-<p>⌘ <a href="https://github.com/Ab40D">GitHub</a> &nbsp; ◈ <a href="https://www.linkedin.com/in/abdelkhalekmammeri/">LinkedIn</a> &nbsp; ↗ <a href="https://se7en-bay.vercel.app/">Portfolio</a></p>
+<p>🌐 <a href="https://github.com/Ab40D">GitHub</a> &nbsp; 🌐 <a href="https://www.linkedin.com/in/abdelkhalekmammeri/">LinkedIn</a> &nbsp; 🌐 <a href="https://se7en-bay.vercel.app/">Portfolio</a></p>
 
 </div>
