@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/systems-integration.svg" width="100%" alt="Animated systems integration architecture showing a smart building connected to KNX, BACnet, PLC, MQTT, Node-RED and interface layers" />
+<img src="systems-integration.svg" width="100%" alt="Animated systems integration architecture showing a smart building connected to KNX, BACnet, PLC, MQTT, Node-RED and interface layers" />
 
 # ABDELKHALEK MAMMERI
 
