@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 140">
+  <defs>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="blur"></feGaussianBlur>
+      <feMerge>
+        <feMergeNode in="blur"></feMergeNode>
+        <feMergeNode in="SourceGraphic"></feMergeNode>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <g filter="url(#glow)">
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -13;0 0" dur="2.5s" repeatCount="indefinite"></animateTransform>
+
+    <path d="M20 115 V57 A40 40 0 0 1 100 57 V115
+      Q90 105 80 115 Q70 125 60 115
+      Q50 105 40 115 Q30 125 20 115Z" fill="#A78BFA" opacity=".95"></path>
+
+    <ellipse cx="45" cy="65" rx="5" ry="8" fill="#21143F"></ellipse>
+    <ellipse cx="75" cy="65" rx="5" ry="8" fill="#21143F"></ellipse>
+
+    <path d="M52 82 Q60 90 68 82" stroke="#21143F" stroke-width="3" fill="none" stroke-linecap="round"></path>
+
+    <circle cx="29" cy="80" r="5" fill="#DDD6FE"></circle>
+    <circle cx="91" cy="80" r="5" fill="#DDD6FE"></circle>
+  </g>
+</svg>
