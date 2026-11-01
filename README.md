@@ -1,14 +1,15 @@
- <div align="center">
+<div align="center">
 
-<h1 style="font-family: 'Changa One', sans-serif; font-size: 48px; font-weight: 400;">
-Abdelkhalek Mammeri
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Changa+One&size=48&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&height=90&lines=Abdelkhalek+Mammeri;Engineering+Beyond+Limits;Building+What's+Next" alt="Abdelkhalek Mammeri" />
 </h1>
 
-<p><i>Electronics Engineer · Systems Integrator · Technology Enthusiast</i></p>
+<p>
+Electronics Engineer · Systems Integrator · Technology Builder
+</p>
 
 <p>
-Building at the intersection of engineering, technology and innovation.
-Exploring intelligent systems, automation, embedded technologies, artificial intelligence and cybersecurity.
+Connecting ideas, engineering and technology to build intelligent systems.
 </p>
 
 <p>
