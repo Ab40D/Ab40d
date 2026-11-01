@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="./assets/ghost.svg" width="110" alt="Animated ghost"/>
+<img src="download.svg" width="110" alt="Animated ghost"/>
 
 <br/>
 
