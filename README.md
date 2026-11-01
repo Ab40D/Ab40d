@@ -2,11 +2,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Changa+One&size=52&duration=2500&pause=900&color=8B5CF6&center=true&vCenter=true&width=750&height=100&lines=Abdelkhalek+Mammeri;Engineering+Beyond+Limits;Building+What's+Next" alt="Abdelkhalek Mammeri" />
 
-<br/>
-
-<img src="./download.svg" width="110" alt="Animated ghost"/>
-
-<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Changa+One&size=23&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&height=45&lines=Electronics+Engineer;Systems+Integrator;Technology+Builder;Exploring+AI+%26+Cybersecurity" alt="Professional roles"/>
 
