@@ -65,12 +65,4 @@ Building intelligent systems at the intersection of hardware, software, automati
 <img src="https://img.shields.io/badge/3D-Digital%20Twins-A78BFA?style=flat-square" />
 <img src="https://img.shields.io/badge/Embedded-Hardware%20Integration-A78BFA?style=flat-square" />
 
-<br/><br/>
-
----
-
-*Exploring. Integrating. Building What's Next.*
-
-**Developed with curiosity by SE7ENX.**
-
-</div>
+<br/><br>
