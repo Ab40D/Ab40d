@@ -1,4 +1,4 @@
-```html
+html
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Changa+One&size=52&duration=2500&pause=900&color=8B5CF6&center=true&vCenter=true&width=850&height=100&lines=Abdelkhalek+Mammeri;Engineering+Beyond+Limits;Building+Intelligent+Systems" alt="Abdelkhalek Mammeri"/>
@@ -173,4 +173,4 @@ I don't believe innovation belongs to a single field.
 <a href="https://se7en-bay.vercel.app/">Explore My Work</a>
 
 </div>
-```
+
