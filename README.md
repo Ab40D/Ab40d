@@ -1,5 +1,4 @@
-```html
-<div align="center">
+ <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Changa+One&size=52&duration=2500&pause=900&color=8B5CF6&center=true&vCenter=true&width=850&height=100&lines=Abdelkhalek+Mammeri;Engineering+Beyond+Limits;Building+Intelligent+Systems" alt="Abdelkhalek Mammeri" />
 
@@ -9,18 +8,13 @@
 
 <br/>
 
-<p>
-<b>Multidisciplinary Engineer & Full-Stack IoT Developer</b><br/>
-Building intelligent systems at the intersection of hardware, software,<br/>
-industrial automation, and artificial intelligence.
-</p>
+**Multidisciplinary Engineer & Full-Stack IoT Developer**
+
+Building intelligent systems at the intersection of hardware, software, industrial automation, and artificial intelligence.
 
 <br/>
 
-<p>
-Bridging the physical and digital worlds through engineering,<br/>
-intelligent automation, and connected technologies.
-</p>
+Bridging the physical and digital worlds through engineering, intelligent automation, and connected technologies.
 
 <br/>
 
@@ -35,4 +29,3 @@ intelligent automation, and connected technologies.
 <img src="https://komarev.com/ghpvc/?username=Ab40D&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
-```
