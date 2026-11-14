@@ -26,6 +26,5 @@ Bridging the physical and digital worlds through engineering, intelligent automa
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Ab40D&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
